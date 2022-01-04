@@ -102,6 +102,7 @@ span#registeration{
     display: flex;
     justify-content: left;
 }
+
 #register{
     left: 450px;
     position: absolute;
