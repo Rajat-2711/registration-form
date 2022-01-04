@@ -128,7 +128,6 @@ span#registeration{
 @media(max-width:500px){
     .form-box{
         width: 90%;
-        height: 90%;
     }
     span{
         position: absolute;
