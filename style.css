@@ -130,4 +130,8 @@ span#registeration{
         width: 90%;
         height: 90%;
     }
+    span{
+        position: absolute;
+        bottom: 277px;       
+    }
 }
